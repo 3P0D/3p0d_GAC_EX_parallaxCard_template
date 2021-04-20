@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_0_template_toon
+  m_Shader: {fileID: -6465566751694194690, guid: a42e5a3ce43da444eb71d8557bbf44c6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_9f0f7b07d3b041afa24bf3adca1d8bec:
+        m_Texture: {fileID: 2800000, guid: 738bd38a336ee264a86dbfca956ee0f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_ff05492440034c808912db247e71714e:
+        m_Texture: {fileID: 2800000, guid: 6f9c6ef1671a5aa43a3d779ed2b2f6a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_427d3f517e0d42bda4105b5e079a1625: 0.75
+    - Vector1_4c997cfd27434d9a884450629cdcbf65: 2
+    - Vector1_70768f43754d43308a89a0ee868cfdb2: 2
+    - Vector1_abfb4c599d1b4363ac38a5946410f293: 1
+    - Vector1_d23b37eeb8634ff5a459ede50dffa102: 0
+    m_Colors:
+    - Color_11cfb61be0d540dfa4f8ca79a84a9eb4: {r: 0, g: 0.06900809, b: 1, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &6066128947530718225
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
