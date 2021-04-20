@@ -1,0 +1,1 @@
+# 3p0d_GAT_EX_parallaxCard_template
