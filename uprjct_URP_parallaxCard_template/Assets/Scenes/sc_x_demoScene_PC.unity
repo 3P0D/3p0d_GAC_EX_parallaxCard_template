@@ -368,19 +368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_cards:
-  - {fileID: 2786851624155863036, guid: 721cc0c1686308b42a98498068b40854, type: 3}
-  - {fileID: 4851847825276762875, guid: ccd474b47c614f147a96a57b2aa4fe3c, type: 3}
-  - {fileID: 6057512810983596816, guid: b5ba185850eadbb40a5a95bf0f6ce424, type: 3}
-  - {fileID: 704663128747959205, guid: 9ef957d9cab68d6449bf72babe1bef54, type: 3}
-  - {fileID: 2775609417747646900, guid: 4948def8464ca2e43a746038a8fb048b, type: 3}
-  - {fileID: 4630460455430817536, guid: ba424fb7a73aa8a47b9b7771750280f6, type: 3}
-  - {fileID: 2315345832070004047, guid: 5fffce63260ab59468369cbb7351430e, type: 3}
-  - {fileID: 4994590487082450015, guid: c590a6a2d1d75354b9ba3f66cfbcdde4, type: 3}
-  - {fileID: 4407512786892007061, guid: fcdd7ca0a6f7b4d40a1a6beff74eb672, type: 3}
-  - {fileID: 8969191388647445641, guid: 70cca0316407b4642899510b7816790b, type: 3}
-  - {fileID: 8326782829368502384, guid: 1cbc2c441261f764aa040c9c5eb8e183, type: 3}
-  - {fileID: 765947751917733714, guid: 092c002dbffce5148a2c2644756e2ab0, type: 3}
-  - {fileID: 4482280611597465811, guid: c14bfbd7359d2504ea449369501e8b6e, type: 3}
+  - {fileID: 348799462787835240, guid: e92adb3866396f341802d15e3d2ce067, type: 3}
   m_nameText: {fileID: 1086175887}
   m_artNameText: {fileID: 39095190}
 --- !u!114 &220702565
@@ -497,7 +485,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: TECHNOCITE 2021 - FORMATION GAMING - 3D GAME ARTIST
+  m_text: FORMATION NAME - FORMATION GAMING - 3D GAME ARTIST
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dd35a42e3bcdad144ac3d9280d2be32d, type: 2}
   m_sharedMaterial: {fileID: 1728149644663698576, guid: dd35a42e3bcdad144ac3d9280d2be32d, type: 2}
@@ -1753,7 +1741,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: TECHNOCITE 2021 - FORMATION GAMING - 3D GAME ARTIST
+  m_text: FORMATION NAME - FORMATION GAMING - 3D GAME ARTIST
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dd35a42e3bcdad144ac3d9280d2be32d, type: 2}
   m_sharedMaterial: {fileID: 1728149644663698576, guid: dd35a42e3bcdad144ac3d9280d2be32d, type: 2}
